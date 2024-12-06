@@ -6,7 +6,9 @@ serving as a Python Package Server.
 
 ## Usage
 To use packages hosted on this Python Package Server,
-add `--extra-index-url https://egoossen.github.io/python-package-server/`
+add
+######
+    --extra-index-url https://egoossen.github.io/python-package-server/
 to the `pip` command.
 
 ## Example Usage
